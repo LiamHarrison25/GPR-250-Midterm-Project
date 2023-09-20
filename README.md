@@ -6,4 +6,6 @@ When the projectiles reach the edge of the screen, if they are clicked they will
 
 It was programmed using C++ and the Allegro Library. In the class, we were also using a Library made by our professor. 
 
+Note: Everything under the shared folder is not my work, and was provided to the class by our instructor. Everything under the project folder is my work. 
+
 This is here on Github to act as my Portfolio and is not an ongoing project which is why it is archived. 
